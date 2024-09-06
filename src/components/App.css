@@ -1,0 +1,4 @@
+/* this style selector goes against BEM guidelines */
+#root {
+  text-align: center;
+}
